@@ -1,2 +1,1 @@
-# MQTT
-IoT class
+# IoT class
